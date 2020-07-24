@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there 👋
+
+My name is julian. I love developing reactive apps.
+
+Mostly contributing to [`RxAngular`](https://github.com/BioPhoton/rx-angular), a lightweight and reactive state management library for Angular Components.
+
+Interested in other stuff I do? Here are some links for you 😄 (sorry, closed source :-[ & mostly german)
+
+- https://www.justbusinesssuite.com/ (realtime invoicing: GraphQL, Angular (RxAngular))
+- https://app.kindofbeauty.de/ (meditation and audioblog: Sanity.io, Firebase, Angular)
+- ... more to come ;)
 
 <!--
 **hoebbelsB/hoebbelsB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
