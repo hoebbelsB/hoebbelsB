@@ -6,7 +6,7 @@ Mostly contributing to [`RxAngular`](https://github.com/BioPhoton/rx-angular), a
 
 ### Interested in other stuff I do? 🤔
 
-Here are some links for you 😄 (sorry, closed source :-[ & mostly german)
+Here are some links for you 👇 (sorry, closed source :-[ & mostly german)
 
 - https://www.justbusinesssuite.com/ (realtime invoicing: GraphQL, Angular (RxAngular))
 - https://app.kindofbeauty.de/ (meditation and audioblog: Sanity.io, Firebase, Angular)
