@@ -2,7 +2,7 @@
 
 My name is julian. I love developing reactive apps.
 
-Mostly contributing to [`RxAngular`](https://github.com/BioPhoton/rx-angular), a lightweight reactive state management & rendering engine library for Angular Components.
+Mostly contributing to [`RxAngular`](https://github.com/BioPhoton/rx-angular), a lightweight reactive state management library & rendering engine for Angular Components.
 
 ### Interested in other stuff I do? 🤔
 
