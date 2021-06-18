@@ -12,7 +12,7 @@ Here are some links for you 👇 (sorry, closed source :-[ & mostly german)
 - https://app.kindofbeauty.de/ (meditation and audioblog: Sanity.io, Firebase, Angular)
 - ... more to come ;)
 
-### Wann reach out? 📫
+### Wanna reach out? 📫
 - [twitter](https://twitter.com/hoebbelsB) @hoebbelsB  
 - [julian@jandl.wien](mailto:julian@jandl.wien)
 
